@@ -192,7 +192,7 @@
 	url = https://github.com/bitfocus/companion-module-nevion-mrp.git
 [submodule "lib/module/bitfocus-companion"]
 	path = lib/module/bitfocus-companion
-	url = https://github.com/odedd/companion-module-bitfocus-companion.git
+	url = https://github.com/bitfocus/companion-module-bitfocus-companion.git
 [submodule "lib/module/ptzoptics-visca"]
 	path = lib/module/ptzoptics-visca
 	url = https://github.com/bitfocus/companion-module-ptzoptics-visca.git
@@ -210,7 +210,7 @@
 	url = https://github.com/bitfocus/companion-module-resolume-arena.git
 [submodule "lib/module/cockos-reaper"]
 	path = lib/module/cockos-reaper
-	url = https://github.com/odedd/companion-module-cockos-reaper.git
+	url = https://github.com/bitfocus/companion-module-cockos-reaper.git
 [submodule "lib/module/neodarque-stagetimer2"]
 	path = lib/module/neodarque-stagetimer2
 	url = https://github.com/bitfocus/companion-module-neodarque-stagetimer2.git
@@ -439,9 +439,6 @@ url=https://github.com/bitfocus/companion-module-opticis-omm-1000.git
 [submodule "lib/module/optoma-z28s"]
 	path = lib/module/optoma-z28s
 	url = https://github.com/bitfocus/companion-module-optoma-z28s.git
-[submodule "lib/module/novastar-vx4s"]
-	path = lib/module/novastar-vx4s
-	url = https://github.com/bitfocus/companion-module-novastar-vx4s.git
 [submodule "lib/module/avstumpfl-pixera"]
 	path = lib/module/avstumpfl-pixera
 	url = https://github.com/bitfocus/companion-module-avstumpfl-pixera.git
@@ -619,3 +616,27 @@ url=https://github.com/bitfocus/companion-module-newbluefx-titler.git
 [submodule "lib/module/openlp-http"]
 	path = lib/module/openlp-http
 	url = https://github.com/bitfocus/companion-module-openlp-http.git
+[submodule "lib/module/jhlx-wirecast"]
+	path = lib/module/jhlx-wirecast
+	url = https://github.com/bitfocus/companion-module-jhlx-wirecast.git
+[submodule "lib/module/generic-sacn"]
+	path = lib/module/generic-sacn
+	url = https://github.com/bitfocus/companion-module-generic-sacn.git
+[submodule "lib/module/youtube-live"]
+	path = lib/module/youtube-live
+	url = https://github.com/bitfocus/companion-module-youtube-live.git
+[submodule "lib/module/presentationtools-aps"]
+	path = lib/module/presentationtools-aps
+	url = https://github.com/bitfocus/companion-module-presentationtools-aps.git
+[submodule "lib/module/panasonic-camera-controller"]
+	path = lib/module/panasonic-camera-controller
+	url = https://github.com/bitfocus/companion-module-panasonic-camera-controller.git
+[submodule "lib/module/magewell-ultrastream"]
+	path = lib/module/magewell-ultrastream
+	url = https://github.com/bitfocus/companion-module-magewell-ultrastream.git
+[submodule "lib/module/aten-matrix"]
+	path = lib/module/aten-matrix
+	url = https://github.com/bitfocus/companion-module-aten-matrix.git
+[submodule "lib/module/rossvideo-nkrouter"]
+	path = lib/module/rossvideo-nkrouter
+	url = https://github.com/bitfocus/companion-module-rossvideo-nkrouter.git
