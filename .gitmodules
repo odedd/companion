@@ -192,7 +192,7 @@
 	url = https://github.com/bitfocus/companion-module-nevion-mrp.git
 [submodule "lib/module/bitfocus-companion"]
 	path = lib/module/bitfocus-companion
-	url = https://github.com/bitfocus/companion-module-bitfocus-companion.git
+	url = https://github.com/odedd/companion-module-bitfocus-companion.git
 [submodule "lib/module/ptzoptics-visca"]
 	path = lib/module/ptzoptics-visca
 	url = https://github.com/bitfocus/companion-module-ptzoptics-visca.git
@@ -210,7 +210,7 @@
 	url = https://github.com/bitfocus/companion-module-resolume-arena.git
 [submodule "lib/module/cockos-reaper"]
 	path = lib/module/cockos-reaper
-	url = https://github.com/bitfocus/companion-module-cockos-reaper.git
+	url = https://github.com/odedd/companion-module-cockos-reaper.git
 [submodule "lib/module/neodarque-stagetimer2"]
 	path = lib/module/neodarque-stagetimer2
 	url = https://github.com/bitfocus/companion-module-neodarque-stagetimer2.git
